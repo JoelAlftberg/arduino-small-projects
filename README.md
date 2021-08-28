@@ -5,7 +5,7 @@ Some small Arduino projects playing with LEDs and potentiometers.
 
 - [ ] Add videos of projects
 - [ ] Add circuit diagrams
-- [ ] Comment code more...
+- [ ] Actually comment the code
 
 ## Button-LED
 My first try at making something with the Arduino.\
