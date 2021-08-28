@@ -20,4 +20,5 @@ Two potentiometers, simulating a safe with two knobs.\
 Making it a bit easier to crack the code by giving the player\
 hints with LEDs.
 
+Here is a circuit diagram!
 ![Alt text](safecrackgame-led/safecrack-game.png?raw=true "Circuit Diagram")
